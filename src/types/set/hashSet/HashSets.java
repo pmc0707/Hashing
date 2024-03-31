@@ -12,7 +12,7 @@ public class HashSets {
         hashSet.add(1);
         hashSet.remove(1);
         System.out.println(hashSet);
-        if(hashSet.contains(2)){
+        if(hashSet.contains(3)){
             System.out.println("set contain 2");
         } if(hashSet.contains(4)){
             System.out.println("set contain 4");
